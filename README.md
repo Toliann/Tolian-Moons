@@ -10,7 +10,7 @@ EchoReach - A desolate wasteland swept by relentless winds.
 
 (for modded interiors, install LethalExpansionCore for compatibilty).
 
-![Celestria](https://github.com/Toliann/Tolian-Moons/blob/main/Screenshot/Celestria.png?raw=true)](https://thunderstore.io/c/lethal-company/p/Tolian/) <br>
+![Celestria](https://github.com/Toliann/Tolian-Moons/blob/main/Screenshot/Celestria.png?raw=true)](https://thunderstore.io/c/lethal-company/p/Tolian/Celestria/) <br>
 
 [![Maritopia](https://github.com/Toliann/Tolian-Moons/blob/main/Screenshot/Maritopia.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Maritopia/) <br>
 
