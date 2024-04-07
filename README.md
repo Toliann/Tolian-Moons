@@ -28,6 +28,18 @@ Introducing a modpack featuring an array of new moons for exploration, tailored 
 
 [![Zenit](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Zenit.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Zenit/) <br>
 
+[![Argent](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Argent.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Argent/) <br>
+
+[![Azure](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Azure.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Azure/) <br>
+
+[![Crystallum](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Crystallum.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Crystallum/) <br>
+
+[![Echelon](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Echelon.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Echelon/) <br>
+
+[![Nimbus](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Nimbus.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Nimbus/) <br>
+
+[![Spectralis](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Spectralis.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Spectralis/) <br>
+
 
 #
 Special thanks
