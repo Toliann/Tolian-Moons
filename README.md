@@ -2,16 +2,25 @@
 
 Introducing a modpack featuring an array of new moons for exploration, tailored to your personal experience. Combine Tolian's Moons with your favorite mods for an enhanced gaming adventure.
 
-##Included:
+## Included:
 
 - Celestria - crimson terrain and towering peaks.
 - Maritopia - A submerged city beneath the waves.
 - EchoReach - A desolate wasteland swept by relentless winds.
 - PsychSanctum - A forsaken asylum swallowed by suffocating shadows
 - Harloth - A toxic wasteland veiled in industrial smog.
-- Nyx - A frigid realm of ancient ruins and icy landscapes.
+- Nyx is a realm of ancient ruins and landscapes,
 - Zenit - A frozen world shrouded in perpetual winter.
 - Budapest - Former vibrant city, now reclaimed by nature after space war.
+- Crystallum - Glittering cavern of crystals.
+- Argent - Post-apocalyptic city ruins.
+- Azure - Aztec-inspired realm.
+- Spectralis - Abandoned and mysterious graveyard
+- Echelon - Abandoned academy.
+- Nimbus - Mystery island in the sky.
+- CaltPrime - Industrial supercomplex hub
+- Sanguine - Enigmatic forest planet 
+
 
 
 [![Celestria](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Celestria2.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Celestria/) <br>
@@ -30,16 +39,19 @@ Introducing a modpack featuring an array of new moons for exploration, tailored 
 
 [![Argent](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Argent.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Argent/) <br>
 
-[![Azure](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Azure.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Azure/) <br>
+[![Azure](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Azure2.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Azure/) <br>
 
 [![Crystallum](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Crystallum.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Crystallum/) <br>
 
-[![Echelon](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Echelon.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Echelon/) <br>
+[![Echelon](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Echelon2.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Echelon/) <br>
 
 [![Nimbus](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Nimbus.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Nimbus/) <br>
 
 [![Spectralis](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Spectralis.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Spectralis/) <br>
 
+[![CaltPrime](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/CaltPrime.png)](https://thunderstore.io/c/lethal-company/p/Tolian/CaltPrime/) <br>
+
+[![Sanguine](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Sanguine.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/) <br>
 
 #
 Special thanks
@@ -47,4 +59,5 @@ Special thanks
 - Special thanks to **DarkiNet** for the icon for the mod    
 
 #
-My discord - tolian
+- My discord - tolian
+- My discord server - [Tolian Serv](https://discord.gg/ybjPfxCKZX)
