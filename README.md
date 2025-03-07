@@ -20,6 +20,11 @@ Introducing a modpack featuring an array of new moons for exploration, tailored 
 - Nimbus - Mystery island in the sky.
 - CaltPrime - Industrial supercomplex hub
 - Sanguine - Enigmatic forest planet 
+- Orion(SfDesat) - A desert wasteland.
+- Celest(SfDesat) - A red valley.
+- Aquatis(SfDesat) - A forgotten island.
+- Egypt -
+- Kast -
 
 
 
@@ -52,6 +57,8 @@ Introducing a modpack featuring an array of new moons for exploration, tailored 
 [![CaltPrime](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/CaltPrime.png)](https://thunderstore.io/c/lethal-company/p/Tolian/CaltPrime/) <br>
 
 [![Sanguine](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Sanguine.png)](https://thunderstore.io/c/lethal-company/p/Tolian/Sanguine/) <br>
+
+[![Egypt](https://raw.githubusercontent.com/Toliann/Tolian-Moons/main/Screenshot/Egypt.png)](https://thunderstore.io/c/lethal-company/p/KayNetsua/E_Gypt_Moon/) <br>
 
 #
 Special thanks
